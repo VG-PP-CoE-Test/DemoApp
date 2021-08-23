@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cr444_oatsandboxab_a2218</Name>
+  <AppVersion>2021-05-20T13:26:29Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20114.22.0</CreatedByClientVersion>
+  <MinClientVersion>3.20114.22.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1136","primaryDeviceHeight":"640","sienaVersion":"20210520T132629Z-3.21052.16.0","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.20114.22","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(175, 229, 178, 1)</BackgroundColor>
+  <DisplayName>OAT-SandBox-AB</DisplayName>
+  <Description>Operational Assessment tool for VPS Coaches to evaluate QRIT processes</Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"74a361b3-69dd-4b4e-b2bd-574aa99e29c0":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1472/1.0.1472.2427/sharepointonline/icon.png","dataSources":["OA_1","RDP_1","RD_1","RDS_1"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://volvogroup.sharepoint.com/sites/coll-group-it-operational-assessment":{"dataSources":{"OA_1":{"tableName":"5f03fb3d-7e03-4a36-bac3-4ab57a41aefa"}}}},"apiTier":"Standard"},"928d8879-a95a-49c6-8abe-11e5d1d99eca":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1472/1.0.1472.2427/sharepointonline/icon.png","dataSources":["RD_1","RDP_1","RDS_1"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://volvogroup.sharepoint.com/sites/coll-group-it-operational-assessment":{"dataSources":{"RD_1":{"tableName":"813d9e7f-9c19-404d-bcda-46bfae919825"},"RDP_1":{"tableName":"113feace-8866-4c10-b4d6-44bb6ef21fad"},"RDS_1":{"tableName":"0e6ccbc8-6c4f-4dab-a261-358e39df8491"}}}},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/cr444_oatsandboxab_a2218_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cr444_oatsandboxab_a2218_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
